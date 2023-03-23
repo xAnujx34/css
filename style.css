@@ -1,0 +1,17 @@
+body{
+    background-color:violet;
+}
+header{
+    background-color: cadetblue;
+}
+p{
+    text-align: center;
+}
+#contact{
+    color: blanchedalmond;
+    text-align: center;
+}
+.link{
+    background-color:beige;
+    color: crimson;
+}
